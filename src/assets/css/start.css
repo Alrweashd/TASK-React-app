@@ -8,11 +8,33 @@ body {
   text-align: center;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 60vh;
 }
-.img1 {
-  width: 50vw;
-  height: 500vh;
+
+.imgCon {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
   padding: 15px;
-  border-radius: 20%;
+  margin: 10px;
+  border-radius: 30%;
+}
+.menu {
+  height: 200px;
+  width: 200px;
+}
+.card {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  gap: 5px;
+  align-items: center;
+}
+h1 {
+  height: 0px;
 }
