@@ -18,7 +18,13 @@ function App() {
     <>
       <div className="container">
         <header> Pizza Hut</header>
-        <h1>Pizza hut </h1>
+        <div>
+          <img
+            src=" https://upload.wikimedia.org/wikipedia/sco/d/d2/Pizza_Hut_logo.svg"
+            className="logo"
+          />
+          <h1>Pizza hut </h1>
+        </div>
         <h4>THe food is here</h4>
         <img
           src={image}

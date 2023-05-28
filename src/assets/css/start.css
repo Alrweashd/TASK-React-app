@@ -1,6 +1,11 @@
 body {
   padding: 0px;
   margin: 0px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a0/Pizza_Hut_international_logo%2C_2008%E2%80%932016.svg");
+}
+.log {
+  height: 20px;
+  width: 60px;
 }
 .container {
   display: flex;
