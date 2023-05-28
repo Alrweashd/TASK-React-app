@@ -6,8 +6,8 @@ function App() {
     <>
       <div className="container">
         <header> Pizza Hut</header>
-        <h2>Pizza hut </h2>
-        <p>THe food is here</p>
+        <h1>Pizza hut </h1>
+        <h4>THe food is here</h4>
         <img src={image} className="img1" alt="logo" />
       </div>
     </>

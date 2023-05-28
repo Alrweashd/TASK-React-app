@@ -13,4 +13,6 @@ body {
 .img1 {
   width: 50vw;
   height: 500vh;
+  padding: 15px;
+  border-radius: 20%;
 }
