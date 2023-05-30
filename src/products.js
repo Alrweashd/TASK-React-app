@@ -1,5 +1,6 @@
 const products = [
   {
+    id: 1,
     name: "pepperoni",
     price: 3,
     image:
@@ -7,6 +8,7 @@ const products = [
   },
 
   {
+    id: 2,
     name: "chicken wings",
     price: 2,
     image:
